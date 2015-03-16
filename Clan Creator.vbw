@@ -1,0 +1,8 @@
+frmMain = 145, 71, 678, 519, , 4, 42, 747, 552, C
+mdlFunctions = 52, 58, 581, 503, 
+frmSettings = 184, 44, 717, 492, C, 148, 165, 681, 613, C
+mdlVariables = 66, 66, 600, 514, 
+clsPBuffer = 36, 154, 680, 559, 
+sPackets = 66, 66, 599, 514, C
+rPackets = 40, 51, 684, 456, C
+mdlBNCSU = 44, 44, 577, 492, I

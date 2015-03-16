@@ -1,0 +1,1 @@
+Place War3.exe, Game.dll, and Storm.dll from your Warcraft 3 directory into this direcotory.
